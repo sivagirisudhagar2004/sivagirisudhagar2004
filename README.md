@@ -1,7 +1,7 @@
   # Hi there 👋 Sivagiri.S
 
 <img align="right" width="370" height="290"
-src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.expertappdevs.com%2Fblog%2Fchoose-python-for-ai-project&ved=0CBcQjRxqFwoTCPCF9r-zoJcDFQAAAAAdAAAAABBT&opi=89978449">
+src="https://jetacademy.az/_next/image?url=http%3A%2F%2Fapi.jetacademy.az%2Fuploads%2Fcourses%2Fcourse-1760594859174-754653745.png&w=1920&q=85">
 
 Here are some ideas to get you started:
 
