@@ -142,6 +142,7 @@ Instead, they work together:
    ┌────────┼────────┐
    ↓        ↓        ↓
  HTML      CSS    JavaScript
+ 
 
 Structure Design Behavior
 
