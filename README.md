@@ -30,6 +30,7 @@ def fibonacci(n):
      a , b = b , a+b
   return a
 ```
+｡🇯‌🇸‌ JavaScript
 ```javascript
 function greet(name){
 return `Hello,${name}.`;
