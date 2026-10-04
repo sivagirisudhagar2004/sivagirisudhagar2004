@@ -3,15 +3,6 @@
 <img align="right" width="370" height="290"
 src="https://jetacademy.az/_next/image?url=http%3A%2F%2Fapi.jetacademy.az%2Fuploads%2Fcourses%2Fcourse-1760594859174-754653745.png&w=1920&q=85">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 
  I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
 
@@ -37,7 +28,7 @@ I love turning ideas into working software, solving problems with clean code, an
 
 🧪 Testing & Debugging
 
-##🚀 What I Do
+## What I Do 🚀
 
 Build RESTful APIs and backend services
 
@@ -51,15 +42,15 @@ Debug and optimize applications
 
 Learn and explore modern backend technologies
 
-##📌 Currently
+## Currently 📌
 
 🌱 Improving my backend development skills 🔭 Building Python-based projects 📚 Learning system design and scalable architecture 💡 Exploring new technologies and open-source projects
 
-##🤝 Let's Connect
+## Let's Connect 🤝
 
 I'm always interested in collaborating on interesting projects, learning from other developers, and contributing to open source.
 
 "Code. Learn. Build. Repeat."
 
-⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile! ⭐
 
