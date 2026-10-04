@@ -16,6 +16,14 @@ I love turning ideas into working software, solving problems with clean code, an
 
 🐍 Python
 
+''''python
+def fibonacci(n):
+   a,b = 0 , 1
+   for _ in range(n):
+     a , b = b , a+b
+  return a
+''''
+
 ⚡ / Django /
 
 🗄️ / MySQL
