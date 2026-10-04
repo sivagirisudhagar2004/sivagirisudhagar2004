@@ -1,6 +1,7 @@
-  # Hi there 👋 Sivagiri
+  # Hi there 👋 Sivagiri.S
 
-
+<img align="right" width="370" height="290"
+src="https://storyset.com/illustration/programming/amico">
 
 Here are some ideas to get you started:
 
@@ -11,9 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- 
--
-- I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
+
+ I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
 
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
 
