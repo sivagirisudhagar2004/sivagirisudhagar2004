@@ -13,8 +13,6 @@ I love turning ideas into working software, solving problems with clean code, an
 ## Math ❌✅
 $$
 (x^2 + 9/4y^2 + z^2 + 1)^3- x^2z^3 - 9/200y^2z^3 = 0
-$$
-$$
 (x^2 + y^2 -1)^3 - x^2y^3 = 0
 
 ## I code in
