@@ -146,8 +146,8 @@ Instead, they work together:
 
 Structure Design Behavior
 
+ ### Django 𝐃 ⚡
 
-⚡  Django 𝐃 
 ***Django OTP Verification: 1 Security Mistakes Most Tutorials Get Wrong***
 
 ```
