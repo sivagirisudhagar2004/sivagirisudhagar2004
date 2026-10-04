@@ -1,7 +1,6 @@
   ## Hi there 👋
 
 
-**sivagirisudhagar2004/sivagirisudhagar2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,7 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...#Hi, I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
+- 😄 Pronouns: ...
+- #Hi, I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
 
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
 
