@@ -1,4 +1,4 @@
-  ## Hi there 👋
+  # Hi there 👋 Sivagiri
 
 
 
@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- #Hi, I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
+- 
+-
+- I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
 
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
 
