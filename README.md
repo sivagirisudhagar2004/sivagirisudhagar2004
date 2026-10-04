@@ -148,6 +148,21 @@ Structure Design Behavior
 
 
 ⚡  Django 𝐃 
+```
+from django.utils import timezone
+from datetime import timedelta
+
+user.otp_code = f"{secrets.randbelow(1000000):06d}"
+user.otp_expires_at = timezone.now() + timedelta(minutes=10)
+
+def verify_otp(user, submitted_code):
+    if user.otp_code == submitted_code and timezone.now() < user.otp_expires_at:
+        user.otp_code = None
+        user.otp_expires_at = None
+        user.save()
+        return True
+    return False
+```
 
  ### MySQL 🗄️ 
 ***MySQL examples for Node.js***
