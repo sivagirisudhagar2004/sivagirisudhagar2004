@@ -37,9 +37,9 @@ return `Hello,${name}.`;
 }
 console.log(greet('World'))
 ```
-⚡ / Django /
+⚡  Django 𝐃 
 
-🗄️ / MySQL
+🗄️  MySQL
 
 🔗 REST APIs
 
