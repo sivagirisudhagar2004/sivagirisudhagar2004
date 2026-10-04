@@ -1,4 +1,4 @@
-  # Hi there 👋 Sivagiri.S
+  # Hi there 👋
 
 <img align="right" width="370" height="250"
 src="https://jetacademy.az/_next/image?url=http%3A%2F%2Fapi.jetacademy.az%2Fuploads%2Fcourses%2Fcourse-1760594859174-754653745.png&w=1920&q=85">
