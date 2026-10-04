@@ -84,19 +84,19 @@ border-radius:8px;
 ```
 Now we can change things like:
 
-    Colors
+ - Colors
 
-    Fonts
+ - Fonts
 
-    Sizes
+  - Sizes
 
-    Spacing
+  - Spacing
 
-    Layout
+   - Layout
 
-    Animations
+   - Animations
 
-    Responsive design
+   - Responsive design
 
 CSS is basically the clothes and design of the webpage.
 JavaScript - The behavior
@@ -115,6 +115,37 @@ return `Hello,${name}.`;
 }
 console.log(greet('World'))
 ```
+JavaScript can handle things like:
+
+   - Button clicks
+   - Form validation
+   - Menus
+   - API requests
+   - Updating webpage content
+   - Animations
+   - Games
+   - Interactive applications
+
+JavaScript is basically the brain of the webpage
+
+One More Important Thing
+HTML, CSS, and JavaScript aren't competitors.
+
+They solve different problems.
+
+You don't use JavaScript instead of HTML or CSS.
+
+Instead, they work together:
+
+         WEB PAGE
+            │
+   ┌────────┼────────┐
+   ↓        ↓        ↓
+ HTML      CSS    JavaScript
+
+Structure Design Behavior
+
+
 ⚡  Django 𝐃 
 
 🗄️  MySQL
