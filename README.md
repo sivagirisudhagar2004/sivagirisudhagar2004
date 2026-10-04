@@ -150,6 +150,18 @@ Structure Design Behavior
 ⚡  Django 𝐃 
 
 🗄️  MySQL
+***MySQL examples for Node.js***
+```
+const mysql = require('mysql2/promise');
+const pool = mysql.createPool({
+  host: 'localhost',
+  user: 'root',
+  database: 'test',
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0
+});
+```
 
 🔗 REST APIs
 
