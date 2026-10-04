@@ -37,8 +37,79 @@ def fibonacci(n):
      a , b = b , a+b
   return a
 ```
+
+ HTML - The structrue
+
+ ### 1. HTML --- The structure *
+#### HTMl (Hypertext Markup Language) defines the structure and content of a webpages
+#### welcome to my website
+
+This is my first website.
+
+click Me
+but it doesn't look particulary fance yet.
+HTML is basically the skeleton of the webpage
+ ```HTML
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
+<nav></nav>
+<span></span>
+<div class="one">
+<h1 id="one">Hello</h1>
+<h2 id="two">Hello</h2>
+<h3 id="three">Hello</h3>
+<h4 id="four">Hello</h4>
+<h5 id="five">Hello</h5>
+<h6 id="six">Hello</h6>
+</div>
+</body>
+</html>
+```
+ CSS - The apperance
+ 
+ css(cascading Style Sheet) controls how those HTML elements look.
+
+ ```CSS
+.one,#one,#two{
+font-size:40px;
+}
+button{
+padding:10px 20px;
+border-radius:8px;
+}
+```
+Now we can change things like:
+
+    Colors
+
+    Fonts
+
+    Sizes
+
+    Spacing
+
+    Layout
+
+    Animations
+
+    Responsive design
+
+CSS is basically the clothes and design of the webpage.
+JavaScript - The behavior
+
 ｡🇯‌🇸‌ JavaScript
+JavaScript makes Webpage interactive and dynamic
 ```javascript
+const button = document.querySelector("button")
+
+button.addEventList("click",() =>{
+alert("Hello!");
+});
+
 function greet(name){
 return `Hello,${name}.`;
 }
