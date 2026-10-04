@@ -1,6 +1,6 @@
   # Hi there 👋 Sivagiri.S
 
-<img align="right" width="300" height="200"
+<img align="right" width="370" height="290"
 src="https://image.shutterstock.com/image-photo/programming-software-development-concept-developer-260nw-2694827365.jpg">
 
 Here are some ideas to get you started:
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
 
 I love turning ideas into working software, solving problems with clean code, and continuously learning new technologies.
+
+## I code in
 
 🛠️ Tech Stack
 
