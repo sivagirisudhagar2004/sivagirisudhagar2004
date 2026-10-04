@@ -37,7 +37,7 @@ I love turning ideas into working software, solving problems with clean code, an
 
 🧪 Testing & Debugging
 
-🚀 What I Do
+##🚀 What I Do
 
 Build RESTful APIs and backend services
 
@@ -51,11 +51,11 @@ Debug and optimize applications
 
 Learn and explore modern backend technologies
 
-📌 Currently
+##📌 Currently
 
 🌱 Improving my backend development skills 🔭 Building Python-based projects 📚 Learning system design and scalable architecture 💡 Exploring new technologies and open-source projects
 
-🤝 Let's Connect
+##🤝 Let's Connect
 
 I'm always interested in collaborating on interesting projects, learning from other developers, and contributing to open source.
 
@@ -63,5 +63,3 @@ I'm always interested in collaborating on interesting projects, learning from ot
 
 ⭐ Thanks for visiting my profile!
 
-- ⚡ Fun fact: ...
--->
