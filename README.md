@@ -149,7 +149,7 @@ Structure Design Behavior
 
 ⚡  Django 𝐃 
 
-🗄️  MySQL
+ ### MySQL 🗄️ 
 ***MySQL examples for Node.js***
 ```
 const mysql = require('mysql2/promise');
