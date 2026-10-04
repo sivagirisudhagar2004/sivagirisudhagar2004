@@ -11,7 +11,9 @@ I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalab
 I love turning ideas into working software, solving problems with clean code, and continuously learning new technologies.
 
 ## math
+$$
 (x^2 + 9/4y^2 + z^2 + 1)^3- x^2z^3 - 9/200y^2z^3 = 0
+$$
 
 ## I code in
 
