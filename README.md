@@ -4,7 +4,7 @@
 src="https://jetacademy.az/_next/image?url=http%3A%2F%2Fapi.jetacademy.az%2Fuploads%2Fcourses%2Fcourse-1760594859174-754653745.png&w=1920&q=85">
 
 
- I'm Sivagiri S 👋 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
+ I'm Sivagiri S 👋 **🐍 Python Backend Developer** | 💻 Software Developer | 🚀 Tech Enthusiast
 
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
 
