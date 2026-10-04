@@ -1,6 +1,6 @@
   # Hi there 👋 Sivagiri.S
 
-<img align="right" width="370" height="200"
+<img align="right" width="370" height="220"
 src="https://jetacademy.az/_next/image?url=http%3A%2F%2Fapi.jetacademy.az%2Fuploads%2Fcourses%2Fcourse-1760594859174-754653745.png&w=1920&q=85">
 
 
