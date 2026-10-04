@@ -1,7 +1,7 @@
   # Hi there 👋 Sivagiri.S
 
 <img align="right" width="370" height="290"
-src="https://storyset.com/illustration/application-programming-interface/amico">
+src="https://image.shutterstock.com/image-photo/programming-software-development-concept-developer-260nw-2694827365.jpg">
 
 Here are some ideas to get you started:
 
