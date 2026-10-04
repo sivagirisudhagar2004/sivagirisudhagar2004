@@ -181,6 +181,25 @@ const pool = mysql.createPool({
 ```
 
 🔗 REST APIs
+```
+Django==4.2.16          # it is django itself!
+django-cors-headers==4.4.0  # avoid cors-headers issues
+django-filter==24.3     # easily filter text fields 
+djangorestframework==3.15.2 # rest framework!
+djangorestframework-simplejwt==5.3.1    # JWT token
+pillow==10.4.0          # for images
+python-dotenv==1.0.1        # load config from .env file
+google-generativeai==0.7.2  # google api
+ipython==8.18.1         # process gemini responses
+django-parler==2.3              # multiple languages support
+django-parler-rest==2.2         # multi-language with restframework
+
+django-admin startproject alive_diary
+cd alive_diary
+python manage.py startapp app_account
+python manage.py startapp app_admin
+python manage.py startapp app_main
+```
 
 🌐 Git & GitHub
 
