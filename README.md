@@ -1,7 +1,7 @@
   # Hi there 👋 Sivagiri.S
 
 <img align="right" width="370" height="290"
-src="https://storyset.com/illustration/programming/amico">
+src="https://storyset.com/illustration/application-programming-interface/amico">
 
 Here are some ideas to get you started:
 
