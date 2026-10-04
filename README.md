@@ -1,7 +1,7 @@
   # Hi there 👋 Sivagiri.S
 
 <img align="right" width="370" height="290"
-src="https://image.shutterstock.com/image-photo/programming-software-development-concept-developer-260nw-2694827365.jpg">
+src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.expertappdevs.com%2Fblog%2Fchoose-python-for-ai-project&ved=0CBcQjRxqFwoTCPCF9r-zoJcDFQAAAAAdAAAAABBT&opi=89978449">
 
 Here are some ideas to get you started:
 
