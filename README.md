@@ -209,17 +209,17 @@ python manage.py startapp app_main
 
 ## What I Do 🚀
 
-Build RESTful APIs and backend services
+- Build RESTful APIs and backend services
 
-Design and work with databases
+- Design and work with databases
 
-Develop scalable backend applications
+- Develop scalable backend applications
 
-Integrate third-party APIs
+- Integrate third-party APIs
 
-Debug and optimize applications
+- Debug and optimize applications
 
-Learn and explore modern backend technologies
+- Learn and explore modern backend technologies
 
 ## Currently 📌
 
