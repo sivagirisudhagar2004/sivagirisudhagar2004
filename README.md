@@ -30,6 +30,12 @@ def fibonacci(n):
      a , b = b , a+b
   return a
 ```
+```javascript
+function greet(name){
+return `Hello,${name}.`;
+}
+console.log(greet('World'))
+```
 ⚡ / Django /
 
 🗄️ / MySQL
