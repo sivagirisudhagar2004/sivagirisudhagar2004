@@ -1,6 +1,6 @@
   # Hi there 👋 Sivagiri.S
 
-<img align="right" width="370" height="290"
+<img align="right" width="300" height="200"
 src="https://image.shutterstock.com/image-photo/programming-software-development-concept-developer-260nw-2694827365.jpg">
 
 Here are some ideas to get you started:
